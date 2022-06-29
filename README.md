@@ -1,1 +1,1 @@
-# BackGround of the Study
+# Background of the Study
