@@ -42,15 +42,15 @@ PATIENTS
 
 STAFF/ DENTIST
 	 
-	The application allows the staff to login and access the following modules.The staff then uses the accounts to manage the patient's account.
+  The application allows the staff to login and access the following modules.The staff then uses the accounts to manage the patient's account.
 
-	Create Dentist
+    Create Dentist
 	
-	Manage Dentist 
+    Manage Dentist 
 
-	Mange Patients
+    Mange Patients
 
-	Manage Appointments
+    Manage Appointments
 	
 
 
