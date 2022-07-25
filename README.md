@@ -7,7 +7,7 @@ The Project Application, aims to provide the patients, proper app to easily set 
 
 
 
-#Objectives of the Study
+# Objectives of the Study
 
  
   The “Dental Appointment: Application-based-Android used for  an appointment for Dental Procedures 
@@ -21,7 +21,7 @@ To provide, the application Allows the patients to book the empty slots
 To Allows the dentist to manage their appointment in each patients
 When the patient visits the dentist, his/her medical record is stored in the database in the dentist.
 
-#Conceptual Framework
+# Conceptual Framework
 
 Scope of the Project
 
@@ -51,7 +51,12 @@ STAFF/ DENTIST
    Mange Patients
 
    Manage Appointments
-	
+
+# UI Screenshots
+
+![login](https://user-images.githubusercontent.com/108405475/180681441-967eb786-05f8-4ba0-961d-0eaace41031a.png)
+![regp](https://user-images.githubusercontent.com/108405475/180681460-9d35ab99-1378-48cf-9aa2-ed8d633cf901.png)
+
 
 
 
