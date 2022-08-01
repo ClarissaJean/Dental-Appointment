@@ -57,6 +57,11 @@ STAFF/ DENTIST
 ![login](https://user-images.githubusercontent.com/108405475/180681441-967eb786-05f8-4ba0-961d-0eaace41031a.png)
 ![regp](https://user-images.githubusercontent.com/108405475/180681460-9d35ab99-1378-48cf-9aa2-ed8d633cf901.png)
 
+![Screenshot (771)](https://user-images.githubusercontent.com/108405475/182083224-282ebc7f-3163-45c7-8bf5-4e991d585e5d.png)
+![Screenshot (772)](https://user-images.githubusercontent.com/108405475/182083232-b2cdd98c-3a6f-4ed4-b0ef-02c46c47d49d.png)
+![Screenshot (767)](https://user-images.githubusercontent.com/108405475/182083250-205a3d82-ed39-4a1a-a512-c2260036f745.png)
+![Screenshot (766)](https://user-images.githubusercontent.com/108405475/182083259-591ed2e9-2018-441f-a269-6cd7918ca2db.png)
+![Screenshot (765)](https://user-images.githubusercontent.com/108405475/182083269-ad11f1fa-78f1-4952-81fd-6b22785c8b7b.png)
 
 
 
