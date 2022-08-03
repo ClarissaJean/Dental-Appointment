@@ -1,0 +1,33 @@
+<!--<ion-header [translucent]="true">
+  <ion-toolbar>
+    <ion-title>
+      Home Page
+    </ion-title>
+    <ion-buttons slot="end">
+      <ion-button color="dark" (click)="logout()">Logout</ion-button>
+    </ion-buttons>
+  </ion-toolbar>
+</ion-header>
+
+<ion-content class="ion-padding">
+  <ion-button (click)="add()">Create</ion-button>
+</ion-content>-->
+<ion-header>
+  <ion-toolbar>
+    <ion-title>
+      Home Page
+    </ion-title>
+    <ion-buttons slot="start">
+      <ion-menu-button menu="main-menu"></ion-menu-button>
+    </ion-buttons>
+    <ion-buttons slot="end">
+      <ion-button color="dark" (click)="logout()">Logout</ion-button>
+      <ion-icon name="log-out"></ion-icon>
+    </ion-buttons>
+  </ion-toolbar>
+</ion-header>
+
+<ion-content padding class="background">
+  <img src="assets/logo.png" class="logo"/>
+  <ion-button class="btn" (click)="add()">Create Appointment</ion-button>
+</ion-content>

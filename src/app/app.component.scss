@@ -1,0 +1,50 @@
+*{
+    font-family: lato;
+}
+
+.menu-header-bg {
+    height:150px;
+    width: 350px;
+    background-color: rgb(63, 192, 252);
+    background: lineargradient(90deg, #fff 0%, #000 100%);
+    transform: rotate(-15deg);
+    border-radius: 10px 10px 10px 60px;
+    margin-left: -10px;
+    margin-top: -50px;
+    margin-bottom: 70px;
+}
+
+.header-content{
+    position: absolute;
+    top: 30px;
+    left: 15px;
+    display: flex;
+    align-items: center;
+
+img {
+    width: 90px;
+    height: 90px;
+    border-radius:50%;
+    border: 7px solid #4d71d7;
+}
+
+h5 {
+    font-weight: 300;
+    font-size:17px;
+}
+}
+
+.menu-items {
+    margin: 0px;
+
+    ion-icon {
+        margin-right: 30px;
+
+    }
+
+    ion-item {
+        padding-left: 50px;
+        margin-bottom: 10px;
+        margin-right: 50px;
+    }
+}

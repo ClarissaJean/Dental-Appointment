@@ -1,0 +1,23 @@
+
+ion-content.background{
+  --ion-background-color: linear-gradient(120deg,#0059946e,#efcaff);
+}
+.btn{
+  margin: 0;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+}
+ion-button {
+  position: relative;
+}
+.logo{
+  margin: 0;
+  position: absolute;
+  top: 30%;
+  left: 50%;
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+}
